@@ -1,0 +1,31 @@
+\begin{theindex}
+
+  \item {cipher\_error}, \hyperpage{5}
+
+  \indexspace
+
+  \item {decrypt}
+    \subitem {modAlphaCipher}, \hyperpage{7}
+
+  \indexspace
+
+  \item {encrypt}
+    \subitem {modAlphaCipher}, \hyperpage{7}
+
+  \indexspace
+
+  \item {getValidCipherText}
+    \subitem {modAlphaCipher}, \hyperpage{8}
+  \item {getValidKey}
+    \subitem {modAlphaCipher}, \hyperpage{8}
+
+  \indexspace
+
+  \item {modAlphaCipher}, \hyperpage{6}
+    \subitem {decrypt}, \hyperpage{7}
+    \subitem {encrypt}, \hyperpage{7}
+    \subitem {getValidCipherText}, \hyperpage{8}
+    \subitem {getValidKey}, \hyperpage{8}
+    \subitem {modAlphaCipher}, \hyperpage{6, 7}
+
+\end{theindex}
